@@ -5,4 +5,7 @@ BRANCH
 - Mencoba membuat Branch
 - Mengedit Branch
 - Menghapus Branch
-- Mengelola Branch
+
+Menambahkan baris 6
+Menambahkan baris 1
+Menambahkan baris 2
