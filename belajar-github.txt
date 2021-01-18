@@ -3,4 +3,3 @@ BELAJAR GITHUB
 - Menyimpan project 
 - Berkolaborasi
 - Membuat website
-- Membuat file
