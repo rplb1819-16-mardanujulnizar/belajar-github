@@ -1,0 +1,4 @@
+BELAJAR GITHUB
+- Mempelajari lebih dalam mengenai GIT & GITHUB
+- Menyimpan project 
+- Berkolaborasi
