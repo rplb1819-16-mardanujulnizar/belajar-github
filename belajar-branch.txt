@@ -1,5 +1,7 @@
 BRANCH
 - Mengenal lebih dalam apa itu Branch
+  * Mendeskripsikannya
+  * Mempelajari
 - Mencoba membuat Branch
 - Mengedit Branch
 - Menghapus Branch
